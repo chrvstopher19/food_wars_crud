@@ -1,6 +1,6 @@
 {
-    "chef": "Sōma Yukihara",
-    "dish_name": "Grilled Squid Tentacles Dressed in Peanut Butter",
+    "chef": ["Sōma Yukihara"],
+    "dish_name": "Roast Pork, Just Kidding",
     "description": "This is Sōma's innovative dish, which is served to repel the vicious urban residential planner, Yaeko Minegasaki, from destroying Restaurant Yukihira. Even when all the meat materials were sabotaged in his kitchen, Sōma managed to turn the tides by using some of the groceries he had bought as his ingredients to create artificial meat.",
     "ingredients": [
       "6 white potatoes",
@@ -112,11 +112,12 @@
         }
       ]
     }
-  }
+}
   {
-    "chef": "Sōma Yukihira",
+    "chef": ["Sōma Yukihira"],
     "dish_name": "Chaliapin Steak Don",
-    "description": "The dish is exclusively made by Sōma combined with the Japanese original dish, the Chaliapin Steak, and the donburi concept for his first Shokugeki. Although the dish was made with cheap ingredients that can be found in a supermarket, the dish focused on both innovation and balance of the ingredients to fulfill the donburi mantra, 'Dons are completed in one bowl.'",
+    "description": "The Chaliapin Steak is an original Japanese steak. It is a dish made in 1936 for the Russian opera singer Feodor Chaliapin when he visited Japan. At the time, he was suffering from toothaches and said, "I want to eat a tender steak." This dish was devised to answer to his request.
+    Donburi (丼, literally "bowl", also frequently abbreviated as "don", less commonly spelled "domburi") is a Japanese "rice bowl dish" consisting of fish, meat, vegetables or other ingredients simmered together and served over rice. Donburi meals are served in oversized rice bowls also called donburi. Donburi are sometimes called sweetened or savory stews on rice.",
     "ingredients": [
       "Beef Sirloin (Supermarket discount)",
       "Lots of Onion",
@@ -173,6 +174,258 @@
         {
           "step_number": 10,
           "instruction": "Put rice mixed with Umeboshi paste (pickled plum) in the donburi bowl. Place the beef on top and add plenty of sauce. Top with the finely chopped, cooked onions."
+        }
+      ]
+    }
+} 
+{
+    "chef": ["Sōma Yukihira"],
+    "dish_name": "Apple Risotto",
+    "description": "Risotto /rɪˈzɒtoʊ/ (Italian: [riˈzɔtto] or [riˈsɔtto]) is a northern Italian rice dish cooked in a broth to a creamy consistency. The broth can be derived from meat, fish, or vegetables. Many types of risotto contain butter, wine, and onion. It is one of the most common ways of cooking rice in Italy. Saffron was originally used for flavor and its attractive yellow color.",
+    "ingredients": {
+      "main": {
+        "risotto": "1/2 Apples",
+        "lemon_juice": "1 teaspoon of Lemon Juice",
+        "sauteed_onion": "1/4 of Onion (Sauteed)",
+        "butter": "2 tablespoons of Butter",
+        "rice": "1/2 cup of Rice",
+        "white_wine": "2 tablespoons of White Wine",
+        "apple_juice": "1 cup of Apple Juice",
+        "water": "1 cup of Water",
+        "consomme": "1 teaspoon of Granulated Consommé",
+        "salt_pepper": "Salt & Pepper",
+        "thick_cut_bacon": "4 slices of Thick-Cut Bacon"
+      },
+      "optional": {
+        "black_pepper": "Black Pepper",
+        "powdered_cheese": "Powdered Cheese"
+      }
+    },
+    "recipe": {
+      "steps": [
+        {
+          "step_number": 1,
+          "instruction": "Cook the bacon in a frying pan until it's crispy and set it aside."
+        },
+        {
+          "step_number": 2,
+          "instruction": "Peel the apple and dice it into cubes of 1cm³."
+        },
+        {
+          "step_number": 3,
+          "instruction": "Mince the onion."
+        },
+        {
+          "step_number": 4,
+          "instruction": "Heat the butter in a frying pan and sauté the onions."
+        },
+        {
+          "step_number": 5,
+          "instruction": "Add the rice to (4) and cook until it's transparent."
+        },
+        {
+          "step_number": 6,
+          "instruction": "Add the white wine to (5) and cook it until the alcohol burns off."
+        },
+        {
+          "step_number": 7,
+          "instruction": "Mix the apple juice, water, and consommé. Slowly add this 1/8 cup at a time to (6) simmering on low heat for 15 minutes (until all the liquid is absorbed)."
+        },
+        {
+          "step_number": 8,
+          "instruction": "Add the apple dices and lemon juice to (7) and season it to taste with salt and pepper."
+        },
+        {
+          "step_number": 9,
+          "instruction": "Place (8) on a plate and top it with (1)."
+        },
+        {
+          "step_number": 10,
+          "instruction": "You can use black pepper or powdered cheese as a topping."
+        }
+      ]
+    }
+  }
+  {
+    "chef": ["Sōma Yukihira"],
+    "dish_name": "Cheese-Feathered Hanetsuki Gyōza",
+    "description": "The Japanese word gyōza (ギョーザ, ギョウザ) was derived from the reading of 餃子 in the Jilu Mandarin (giǎoze) and is written using the same Chinese characters. The selection of characters indicates that the word is of non-Japanese origin. Following the Second World War, Japanese soldiers who returned from Manchuria brought home gyōza recipes.",
+    "ingredients": {
+      "main": {
+        "chicken_wings": "Chicken Wings (Big)",
+        "parmesan_cheese": "Parmesan Cheese (Grated)",
+        "water": "Water",
+        "vegetable_oil": "Vegetable Oil"
+      },
+      "filling": {
+        "pork": "Pork (Ground)",
+        "ginger": "Ginger (Diced)",
+        "garlic_chives": "Garlic Chives (Diced)",
+        "cabbage": "Cabbage (Diced)",
+        "pork_jowl": "Pork Jowl (Diced)",
+        "leek": "Leek (Diced)",
+        "shiitake_mushrooms": "Shiitake Mushrooms (Diced)"
+      },
+      "seasoning": {
+        "shoyu": "Shoyu (Soy Sauce)",
+        "sake": "Sake",
+        "sugar": "Sugar",
+        "potato_starch": "Potato Starch",
+        "sesame_oil": "Sesame Oil",
+        "oyster_sauce": "Oyster Sauce"
+      },
+      "sweet_and_sour_sauce": {
+        "vinegar": "Vinegar",
+        "ketchup": "Ketchup",
+        "chicken_bouillon": "Chicken Bouillon",
+        "water": "Water",
+        "potato_starch": "Potato Starch",
+        "sesame_oil": "Sesame Oil"
+      }
+    },
+    "recipe": {
+      "steps": [
+        {
+          "step_number": 1,
+          "instruction": "Use a pair of kitchen scissors to remove the two bones inside each of the 16 chicken wings. Mix 2 tablespoons each sake and soy sauce and 1 tablespoon of sugar."
+        },
+        {
+          "step_number": 2,
+          "instruction": "Dice the 1/8 head of cabbage, 1/2 bundle of leeks and 2-3 shiitake mushrooms. Grate the 2 thumbs of ginger and the 2 clove's of garlic. Chop the 4 slices of pork jowl into small pieces."
+        },
+        {
+          "step_number": 3,
+          "instruction": "Mix the ground pork and the pork jowl in a bowl until the mixture looks whiteish. Add 1 tablespoon each of potato starch, soy sauce, sugar, and sesame oil and 1 teaspoon of oyster sauce and thoroughly mix together. Then add in the cabbage, leeks, shiitake, mushrooms, garlic, and ginger and mix again."
+        },
+        {
+          "step_number": 4,
+          "instruction": "Take the chicken wings from step 1. Stuff with 1/16th of the mixture from step 3 and pinch closed. Repeat it for all 16 wings."
+        },
+        {
+          "step_number": 5,
+          "instruction": "Heat the vegetable oil in a skillet or a frying pan. Place the wings from step 4 in the pan, skin-side up, and fry until the bottoms are browned. Flip them over skin-side down and dust with 60 grams of powdered cheese. Pour in the 100cc of water, cover and turn down to low heat. Let steam for 10 minutes."
+        },
+        {
+          "step_number": 6,
+          "instruction": "Once all the water has steamed off and the wings are cooked through, remove from heat and plate them browned-side up. (Drizzle with the sweet and sour sauce if desired. They can be especially delicious as a Donburi Rice Bowl when put on top of white rice and drizzled with sauce.)"
+        }
+      ],
+      "options": [
+        {
+          "step_number": 7,
+          "instruction": "Options [make Sweet & Sour Sauce]"
+        },
+        {
+          "step_number": 8,
+          "instruction": "Put 2 tablespoons each of vinegar, sugar and ketchup and 2 teaspoon each of soy sauce and chicken bouillon, 200cc of water, 1 tablespoon of potato starch, and 1 teaspoon of sesame oil into a pot and stir together well."
+        },
+        {
+          "step_number": 9,
+          "instruction": "Heat until boiling. Stir the mixture until thickened."
+        }
+      ]
+    }
+  }
+  {
+    "chef": ["Ikumi Mito", "Sōma Yukihira"],
+    "dish_name": "Sumire Karaage Roll",
+    "description": "Karaage (唐揚げ or 空揚げ or から揚げ [kaɾaaɡe]), is a Japanese cooking technique in which various foods — most often chicken, but also other meat and fish — are deep fried in oil. The process involves lightly coating small pieces of the meat or fish with a seasoned wheat flour or potato starch mix, and frying in a light oil. Occasionally, the foods are marinated prior to coating with the seasoning mix. The process is similar in technique to the preparation of tempura. Bánh Xèo [ɓǎɲ sɛ̂w], literally 'sizzling cake', named for the loud sizzling sound it makes when the rice batter is poured into the hot skillet is a Vietnamese savory fried pancake made of rice flour, water, turmeric powder. It is stuffed with individual preferences, and served vegetarian or with meat. Some common stuffings include: pork, shrimp, diced green onion, mung bean, and bean sprouts.",
+    "ingredients": {
+      "main": [
+        "Chicken Thigh Meat",
+        "Soy Sauce",
+        "Chili Peppers",
+        "Cornstarch",
+        "Lettuce",
+        "Perilla",
+        "Flat-Leaf Parsley",
+        "Black Pepper",
+        "Bánh Xèo",
+        "Rice Flour",
+        "Water",
+        "Coconut Milk",
+        "Sauce",
+        "Chili Sauce",
+        "Fish Sauce",
+        "Tomatoes",
+        "Chicken Thighs (approximately 500 grams)",
+        "1/8 Apple",
+        "1/8 Onion",
+        "Frying Oil",
+        "Potato Starch/Corn Starch"
+      ],
+      "sets": {
+        "A": [
+          "1/4 Teaspoon Chicken Bouillon",
+          "2 Tablespoons Soy Sauce",
+          "2 Tablespoons Sake",
+          "1/2 Teaspoon Salt",
+          "1/4 Teaspoon Black Pepper",
+          "1/4 Teaspoon Cayenne Pepper"
+        ],
+        "B": [
+          "100 grams Low Protein Flour (such as cake and pastry flour)",
+          "100 grams Joshinko Rice Flour",
+          "1 Teaspoon Turmeric",
+          "200 CC Coconut Milk",
+          "250 CC Water",
+          "4 Teaspoons Sesame Oil",
+          "Cooking Oil",
+          "Cilantro or Parsley",
+          "Green Perilla Leaves",
+          "Lettuce Leaves",
+          "Black Pepper"
+        ],
+        "C": [
+          "3 Tablespoons Hot Sauce",
+          "1 Tablespoon Lemon Juice",
+          "1 Tablespoon Fish Sauce"
+        ]
+      }
+    },
+    "recipe": {
+      "steps": [
+        {
+          "step_number": 1,
+          "instruction": "Cut chicken thighs, onion, and apple into bite-sized pieces, do not peel the apple."
+        },
+        {
+          "step_number": 2,
+          "instruction": "Put the Apple and Onion from Step 1 into a food processor and add (Set A) and Puree."
+        },
+        {
+          "step_number": 3,
+          "instruction": "Put Step 2 in a plastic bag and add the chicken from Step 1. Rub the meat well with 2 and then let sit in the refrigerator overnight to marinate. (for shorter time periods, rub the meat well with Step 2 for 5 minutes, then let marinate for 20 minutes)"
+        },
+        {
+          "step_number": 4,
+          "instruction": "Heat frying oil to 350°F. Lightly coat Step 3 with potato starch and deep-fry for 5 minutes, or until golden brown. While frying, use a skimmer to scoop the meat out of the oil briefly one or two times to air (this gives it the effect of being 'twice-fried')."
+        },
+        {
+          "step_number": 5,
+          "instruction": "Make the Banh Xeo batter. Put (Set B) in a bowl and mix. Slowly add coconut milk, water, and beat into a batter with a mixer."
+        },
+        {
+          "step_number": 6,
+          "instruction": "Heat the cooking oil in a frying pan then add 1/4 of Step 5. Quickly spread it thinly across the pan and cook on low heat. Once the edges start turning up, add one teaspoon of sesame oil all the way around the edges and cook until crispy. Quickly flip with a spatula, briefly cook the other side, and then move to a plate. Cook the remaining three portions of the batter in the same way."
+        },
+        {
+          "step_number": 7,
+          "instruction": "Place the cilantro, green perilla leaves, and lettuce leaves onto Step 6 and add the fried chicken from Step 4. Quickly mix together the hot sauce from (Set C) and pour over the chicken, top with black pepper, and done!"
+        }
+      ],
+      "options": [
+        {
+          "step_number": 8,
+          "instruction": "Options [make Sweet & Sour Sauce]"
+        },
+        {
+          "step_number": 9,
+          "instruction": "Put 2 tablespoons each of vinegar, sugar and ketchup and 2 teaspoon each of soy sauce and chicken bouillon, 200cc of water, 1 tablespoon of potato starch, and 1 teaspoon of sesame oil into a pot and stir together well."
+        },
+        {
+          "step_number": 10,
+          "instruction": "Heat until boiling. Stir the mixture until thickened."
         }
       ]
     }
