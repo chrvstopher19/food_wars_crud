@@ -1,3 +1,4 @@
+[
 {
     "chef": ["Soma Yukihira"],
     "dish_name": "Roast Pork, Just Kidding",
@@ -42,8 +43,7 @@
     "chef": ["Soma Yukihira"],
     "dish_name": "Chaliapin Steak Don",
     "img_link":"",
-    "description": "The Chaliapin Steak is an original Japanese steak. It is a dish made in 1936 for the Russian opera singer Feodor Chaliapin when he visited Japan. At the time, he was suffering from toothaches and said, "I want to eat a tender steak." This dish was devised to answer to his request.
-    Donburi (丼, literally "bowl", also frequently abbreviated as "don", less commonly spelled "domburi") is a Japanese "rice bowl dish" consisting of fish, meat, vegetables or other ingredients simmered together and served over rice. Donburi meals are served in oversized rice bowls also called donburi. Donburi are sometimes called sweetened or savory stews on rice.",
+    "description": "Donburi meals are served in oversized rice bowls also called donburi. Donburi are sometimes called sweetened or savory stews on rice.",
 
     "ingredients": [
       "Beef Sirloin (Supermarket discount)",
@@ -115,20 +115,20 @@
     "ingredients": [
     "Chicken Wings (Big)",
     "Parmesan Cheese (Grated)",
-    "Vegetable Oil"
+    "Vegetable Oil",
     "Pork (Ground)",
     "Ginger (Diced)",
     "Garlic Chives (Diced)",
     "Cabbage (Diced)",
     "Pork Jowl (Diced)",
     "Leek (Diced)",
-    "Shiitake Mushrooms (Diced)"
+    "Shiitake Mushrooms (Diced)",
     "Shoyu (Soy Sauce)",
     "Sake",
     "Sugar",
     "Potato Starch",
     "Sesame Oil",
-    "Oyster Sauce"
+    "Oyster Sauce",
     "Vinegar",
     "Ketchup",
     "Chicken Bouillon",
@@ -184,7 +184,7 @@
         "1/4 Teaspoon Cayenne Pepper",
         "3 Tablespoons Hot Sauce",
         "Beginning of Set C. 1 Tablespoon Lemon Juice",
-        "1 Tablespoon Fish Sauce"
+        "1 Tablespoon Fish Sauce",
         "Beginning of Set B. 100 grams Low Protein Flour (such as cake and pastry flour)",
         "100 grams Joshinko Rice Flour",
         "1 Teaspoon Turmeric",
@@ -251,17 +251,17 @@
     "ingredients": [
       "The mashed potatoes consist of potatoes and entrecôte.",
       "The alsation potato crepe consists of Crepe Batter and Finely Grated Potatoes.",
-      "The sardine pomme galette consists of butter, Potatoes, Cheese, and Sardines (Semi-Dried)."
+      "The sardine pomme galette consists of butter, Potatoes, Cheese, and Sardines (Semi-Dried).",
       "The meat bordelaise sauce consists of Pan Drippings, Entrecôte and, Red Bordeaux Wine (full bottle).",
-      "Garnishes are; Cheese and Parsley Leaf."
+      "Garnishes are; Cheese and Parsley Leaf.",
       "Serve."
     ],
     "recipe": [ 
       "Create a crepe batter by including finely grated potatoes and cook on a skillet till the texture is chewy.",
       "Create the pomme galette by adding sliced potatoes, cheese, and semi-dried sardines to a hot frying pan. Make sure the potatoes are spread out thinly and fry till the mixture is crisp.",
-      "Use the crepe to wrap both the pomme galette and mashed potatoes."
+      "Use the crepe to wrap both the pomme galette and mashed potatoes.",
       "Grill a steak on a frying pan till it is short of well done then remove it. Cut into bite-sized pieces.",
-      "Reduce close to a whole bottle of Bordeaux on the pan with the bordelaise to create the sauce."
+      "Reduce close to a whole bottle of Bordeaux on the pan with the bordelaise to create the sauce.",
       "Combine both the meat and the sauce inside the crepe."
       ]
     },
@@ -281,11 +281,11 @@
       "Filling consists of; Spinach and Bacon"
     ],
     "recipe":  [
-      "Mince the chicken for preparation."
-      "Sautee the mushrooms, hen-of-the-woods, and shimeji with butter."
-      "Create an appareil by cooking eggs, soy sauce, and white miso over a saucepan till it reaches the desired consistency."
-      "Place the minced chicken and the sauteed ingredients over the pie crust in an oven-ready pan."
-      "Pour in the appareil to coat the ingredients and reach almost to the top of the crust."
+      "Mince the chicken for preparation.",
+      "Sautee the mushrooms, hen-of-the-woods, and shimeji with butter.",
+      "Create an appareil by cooking eggs, soy sauce, and white miso over a saucepan till it reaches the desired consistency.",
+      "Place the minced chicken and the sauteed ingredients over the pie crust in an oven-ready pan.",
+      "Pour in the appareil to coat the ingredients and reach almost to the top of the crust.",
       "Place the pan into the oven and cook till desired texture is reached."
       ]
     },
@@ -296,7 +296,7 @@
     "img_link": "",
     "description": "Curry is an umbrella term referring to a number of dishes originating in the cuisine of the Indian subcontinent. Risotto is a northern Italian rice dish cooked in a broth to a creamy consistency. Omurice is an example of yōshoku consisting of an omelette made with fried rice and usually topped with ketchup. With omu and raisu being contractions of the words omelette and rice, the name is an example of wasei-eigo. It is a popular dish both commonly cooked at home and often found at western style diners in Japan. Pressing a spoon on it causes an aroma explosion stemming from his usage of Mango Chutney.",
     "ingredients": 
-      [ "Broth"
+      [ "Broth",
         "600g Beef",
         "600g Chicken",
         "1 Onion",
@@ -305,7 +305,7 @@
         "3 tbsp Curry Powder",
         "1L Water",
         "2 Cloves",
-        "mango_chutney"
+        "Mango chutney",
         "1 Mango",
         "1 Apple",
         "1 Banana",
@@ -408,7 +408,7 @@
         "Chili Peppers", 
         "Satsuma Jidori Stock",
         "Cilantro",
-        "Ginger Sauce"
+        "Ginger Sauce",
         "Soy Sauce"
       ],
       "recipe": [
@@ -504,7 +504,7 @@
             "Grated Apple",
             "Lemon Juice",
             "Lemon",
-            "Sugar"
+            "Sugar",
             "White Bean Paste",
             "White Kidney Beans",
             "Cube Cut Apple",
@@ -675,7 +675,7 @@
            "recipe": 
            [
               "Preheat the oven to 350°F (175°C).",
-              "In a bowl, whisk together the eggs and grated Parmesan cheese. Set aside."
+              "In a bowl, whisk together the eggs and grated Parmesan cheese. Set aside.",
               "Heat olive oil in an oven-safe skillet over medium heat.",
               "Sauté the thinly sliced onion until translucent.",
               "Add diced red bell pepper and cook until it softens.",
@@ -822,7 +822,7 @@
                     "Enjoy your delicious terrine!"
                   ]
                 }
-        
+              ]
 
             
       
