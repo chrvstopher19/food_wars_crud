@@ -1,5 +1,6 @@
 {
     "chef": ["Sōma Yukihara"],
+    "img_link": "",
     "dish_name": "Roast Pork, Just Kidding",
     "description": "This is Sōma's innovative dish, which is served to repel the vicious urban residential planner, Yaeko Minegasaki, from destroying Restaurant Yukihira. Even when all the meat materials were sabotaged in his kitchen, Sōma managed to turn the tides by using some of the groceries he had bought as his ingredients to create artificial meat.",
     "ingredients": [
@@ -426,6 +427,54 @@
         {
           "step_number": 10,
           "instruction": "Heat until boiling. Stir the mixture until thickened."
+        }
+      ]
+    }
+  }
+  {
+    "chef": "Ryō Kurokiba",
+    "dish_name": "Autumn Pacific Saury Cartoccio",
+    "description": "A dish utilizing the usage of heat resistant film, multiple shellfish and herb butter to create a delicious pacific saury dish that submerges anyone in an ocean of rich flavor and aroma.",
+    "ingredients": [
+      "Seasonal Pacific Saury",
+      "Herb Butter",
+      "Regular Butter",
+      "Garlic",
+      "Black Pepper",
+      "Parsley",
+      "Thyme",
+      "Shellfish",
+      "Shrimp",
+      "Mussels",
+      "Manila Clams",
+      "Mushrooms",
+      "Cherry Tomatoes",
+      "Lemon Slices",
+      "Olive Oil",
+      "Wrapping",
+      "Heat Resistant Film"
+    ],
+    "recipe": {
+      "steps": [
+        {
+          "step_number": 1,
+          "instruction": "Making the Herb Butter:\nWarm the butter to room temperature.\nMix in the garlic, black pepper, parsley, and thyme. Wrap in plastic wrap and set in the freezer to chill."
+        },
+        {
+          "step_number": 2,
+          "instruction": "Making the Cartoccio:\nCut the cherry tomatoes in half and slice the mushrooms.\nMake a slit along the back of the shrimp and devein them.\nSprinkle the pike fillets with salt and let sit for ten minutes. Pat with a paper towel to remove excess moisture."
+        },
+        {
+          "step_number": 3,
+          "instruction": "In the center of a sheet of parchment paper, place the tomatoes, mushrooms, shrimps, pacific saury, and steamed clams.\nPlace the butter on top, and carefully wrap the parchment paper firmly closed."
+        },
+        {
+          "step_number": 4,
+          "instruction": "Bake in the oven at 400 degrees Fahrenheit (or 205 degrees Celsius) for 20 minutes."
+        },
+        {
+          "step_number": 5,
+          "instruction": "Remove from the oven, open the wrap, place the lemon slices, and serve."
         }
       ]
     }
