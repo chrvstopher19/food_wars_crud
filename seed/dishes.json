@@ -2,6 +2,7 @@
     "chef": ["Sōma Yukihara"],
     "img_link": "",
     "dish_name": "Roast Pork, Just Kidding",
+    "img_link":"",
     "description": "This is Sōma's innovative dish, which is served to repel the vicious urban residential planner, Yaeko Minegasaki, from destroying Restaurant Yukihira. Even when all the meat materials were sabotaged in his kitchen, Sōma managed to turn the tides by using some of the groceries he had bought as his ingredients to create artificial meat.",
     "ingredients": [
       "6 white potatoes",
@@ -117,6 +118,7 @@
   {
     "chef": ["Sōma Yukihira"],
     "dish_name": "Chaliapin Steak Don",
+    "img_link":"",
     "description": "The Chaliapin Steak is an original Japanese steak. It is a dish made in 1936 for the Russian opera singer Feodor Chaliapin when he visited Japan. At the time, he was suffering from toothaches and said, "I want to eat a tender steak." This dish was devised to answer to his request.
     Donburi (丼, literally "bowl", also frequently abbreviated as "don", less commonly spelled "domburi") is a Japanese "rice bowl dish" consisting of fish, meat, vegetables or other ingredients simmered together and served over rice. Donburi meals are served in oversized rice bowls also called donburi. Donburi are sometimes called sweetened or savory stews on rice.",
     "ingredients": [
@@ -182,6 +184,7 @@
 {
     "chef": ["Sōma Yukihira"],
     "dish_name": "Apple Risotto",
+    "img_link":"",
     "description": "Risotto /rɪˈzɒtoʊ/ (Italian: [riˈzɔtto] or [riˈsɔtto]) is a northern Italian rice dish cooked in a broth to a creamy consistency. The broth can be derived from meat, fish, or vegetables. Many types of risotto contain butter, wine, and onion. It is one of the most common ways of cooking rice in Italy. Saffron was originally used for flavor and its attractive yellow color.",
     "ingredients": {
       "main": {
@@ -250,6 +253,7 @@
   {
     "chef": ["Sōma Yukihira"],
     "dish_name": "Cheese-Feathered Hanetsuki Gyōza",
+    "img_link":"",
     "description": "The Japanese word gyōza (ギョーザ, ギョウザ) was derived from the reading of 餃子 in the Jilu Mandarin (giǎoze) and is written using the same Chinese characters. The selection of characters indicates that the word is of non-Japanese origin. Following the Second World War, Japanese soldiers who returned from Manchuria brought home gyōza recipes.",
     "ingredients": {
       "main": {
@@ -330,6 +334,7 @@
   {
     "chef": ["Ikumi Mito", "Sōma Yukihira"],
     "dish_name": "Sumire Karaage Roll",
+    "img_link":"",
     "description": "Karaage (唐揚げ or 空揚げ or から揚げ [kaɾaaɡe]), is a Japanese cooking technique in which various foods — most often chicken, but also other meat and fish — are deep fried in oil. The process involves lightly coating small pieces of the meat or fish with a seasoned wheat flour or potato starch mix, and frying in a light oil. Occasionally, the foods are marinated prior to coating with the seasoning mix. The process is similar in technique to the preparation of tempura. Bánh Xèo [ɓǎɲ sɛ̂w], literally 'sizzling cake', named for the loud sizzling sound it makes when the rice batter is poured into the hot skillet is a Vietnamese savory fried pancake made of rice flour, water, turmeric powder. It is stuffed with individual preferences, and served vegetarian or with meat. Some common stuffings include: pork, shrimp, diced green onion, mung bean, and bean sprouts.",
     "ingredients": {
       "main": [
@@ -434,6 +439,7 @@
   {
     "chef": "Ryō Kurokiba",
     "dish_name": "Autumn Pacific Saury Cartoccio",
+    "img_link":"",
     "description": "A dish utilizing the usage of heat resistant film, multiple shellfish and herb butter to create a delicious pacific saury dish that submerges anyone in an ocean of rich flavor and aroma.",
     "ingredients": [
       "Seasonal Pacific Saury",
@@ -475,6 +481,47 @@
         {
           "step_number": 5,
           "instruction": "Remove from the oven, open the wrap, place the lemon slices, and serve."
+        }
+      ]
+    }
+  }
+  {
+    "chefs": ["Sōma Yukihira", "Erina Nakiri", "Jōichirō Yukihira"],
+    "dish_name": "Hachis Parmentier",
+    "img_link":"",
+    "description": "This French dish consists of an outer layer of mashed potatoes with an inside consisting of diced entrecôte. For garnish, they use an Alsatian Potato Crepe which contains finely-grated potatoes with crepe batter. They also made a Sardine Pomme Galette that has potatoes, cheese, and semi-dried sardines. Combined with a Meat Bordelaise Sauce which is made by using pan drippings from the entrecôte and bordeaux wine, all served in a single plate.",
+    "ingredients": {
+      "mashed_potatoes": ["Potatoes", "Entrecôte"],
+      "alsatian_potato_crepe": ["Crepe Batter", "Finely Grated Potatoes"],
+      "sardine_pomme_galette": ["Butter", "Potatoes", "Cheese", "Sardines (Semi-Dried)"],
+      "meat_bordelaise_sauce": ["Pan Drippings", "Entrecôte", "Red Bordeaux Wine (full bottle)"],
+      "garnish": ["Cheese", "Parsley Leaf"]
+    },
+    "recipe": {
+      "steps": [
+        {
+          "step_number": 1,
+          "instruction": "Create a crepe batter by including finely grated potatoes and cook on a skillet till the texture is chewy."
+        },
+        {
+          "step_number": 2,
+          "instruction": "Create the pomme galette by adding sliced potatoes, cheese, and semi-dried sardines to a hot frying pan. Make sure the potatoes are spread out thinly and fry till the mixture is crisp."
+        },
+        {
+          "step_number": 3,
+          "instruction": "Use the crepe to wrap both the pomme galette and mashed potatoes."
+        },
+        {
+          "step_number": 4,
+          "instruction": "Grill a steak on a frying pan till it is short of well done then remove it. Cut into bite-sized pieces."
+        },
+        {
+          "step_number": 5,
+          "instruction": "Reduce close to a whole bottle of Bordeaux on the pan with the bordelaise to create the sauce."
+        },
+        {
+          "step_number": 6,
+          "instruction": "Combine both the meat and the sauce inside the crepe."
         }
       ]
     }
