@@ -1,5 +1,5 @@
 {
-    "chef": ["Sōma Yukihara"],
+    "chef": ["Soma Yukihira"],
     "dish_name": "Roast Pork, Just Kidding",
     "img_link":"",
     "description": "This is Sōma's innovative dish, which is served to repel the vicious urban residential planner, Yaeko Minegasaki, from destroying Restaurant Yukihira. Even when all the meat materials were sabotaged in his kitchen, Sōma managed to turn the tides by using some of the groceries he had bought as his ingredients to create artificial meat.",
@@ -39,7 +39,7 @@
   },
 
   {
-    "chef": ["Sōma Yukihira"],
+    "chef": ["Soma Yukihira"],
     "dish_name": "Chaliapin Steak Don",
     "img_link":"",
     "description": "The Chaliapin Steak is an original Japanese steak. It is a dish made in 1936 for the Russian opera singer Feodor Chaliapin when he visited Japan. At the time, he was suffering from toothaches and said, "I want to eat a tender steak." This dish was devised to answer to his request.
@@ -74,7 +74,7 @@
       ]
 },
 {
-    "chef": ["Sōma Yukihira"],
+    "chef": ["Soma Yukihira"],
     "dish_name": "Apple Risotto",
     "img_link":"",
     "description": "Risotto /rɪˈzɒtoʊ/ (Italian: [riˈzɔtto] or [riˈsɔtto]) is a northern Italian rice dish cooked in a broth to a creamy consistency. The broth can be derived from meat, fish, or vegetables. Many types of risotto contain butter, wine, and onion. It is one of the most common ways of cooking rice in Italy. Saffron was originally used for flavor and its attractive yellow color.",
@@ -108,7 +108,7 @@
       ]  
     },
   {
-    "chef": ["Sōma Yukihira"],
+    "chef": ["Soma Yukihira"],
     "dish_name": "Cheese-Feathered Hanetsuki Gyōza",
     "img_link":"",
     "description": "The Japanese word gyōza (ギョーザ, ギョウザ) was derived from the reading of 餃子 in the Jilu Mandarin (giǎoze) and is written using the same Chinese characters. The selection of characters indicates that the word is of non-Japanese origin. Following the Second World War, Japanese soldiers who returned from Manchuria brought home gyōza recipes.",
@@ -150,7 +150,7 @@
       ]
   },
   {
-    "chef": ["Ikumi Mito", "Sōma Yukihira"],
+    "chef": ["Ikumi Mito", "Soma Yukihira"],
     "dish_name": "Sumire Karaage Roll",
     "img_link":"",
     "description": "Karaage (唐揚げ or 空揚げ or から揚げ [kaɾaaɡe]), is a Japanese cooking technique in which various foods — most often chicken, but also other meat and fish — are deep fried in oil. The process involves lightly coating small pieces of the meat or fish with a seasoned wheat flour or potato starch mix, and frying in a light oil. Occasionally, the foods are marinated prior to coating with the seasoning mix. The process is similar in technique to the preparation of tempura. Bánh Xèo [ɓǎɲ sɛ̂w], literally 'sizzling cake', named for the loud sizzling sound it makes when the rice batter is poured into the hot skillet is a Vietnamese savory fried pancake made of rice flour, water, turmeric powder. It is stuffed with individual preferences, and served vegetarian or with meat. Some common stuffings include: pork, shrimp, diced green onion, mung bean, and bean sprouts.",
@@ -212,7 +212,7 @@
       ]
   },
   {
-    "chef": "Ryō Kurokiba",
+    "chef": ["Ryo Kurokiba"],
     "dish_name": "Autumn Pacific Saury Cartoccio",
     "img_link":"",
     "description": "A dish utilizing the usage of heat resistant film, multiple shellfish and herb butter to create a delicious pacific saury dish that submerges anyone in an ocean of rich flavor and aroma.",
@@ -244,7 +244,7 @@
       ]
   },
   {
-    "chef": ["Sōma Yukihira", "Erina Nakiri", "Jōichirō Yukihira"],
+    "chef": ["Soma Yukihira", "Erina Nakiri", "Joichiro Yukihira"],
     "dish_name": "Hachis Parmentier",
     "img_link":"",
     "description": "This French dish consists of an outer layer of mashed potatoes with an inside consisting of diced entrecôte. For garnish, they use an Alsatian Potato Crepe which contains finely-grated potatoes with crepe batter. They also made a Sardine Pomme Galette that has potatoes, cheese, and semi-dried sardines. Combined with a Meat Bordelaise Sauce which is made by using pan drippings from the entrecôte and bordeaux wine, all served in a single plate.",
@@ -266,7 +266,7 @@
       ]
     },
   {
-    "chef": "Kojirō Shinomiya",
+    "chef": ["Kojiro Shinomiya"],
     "dish_name": "Quiche De Légumes Oubliés",
     "img_link": "",
     "description": "A Quiche (/ˈkiːʃ/ KEESH) is a savory open tart or flan consisting of pastry crust filled with eggs, milk or cream, and cheese, meat, seafood or vegetables. Quiches can be served hot or cold, and are part of French cuisine but are also popular in other countries, particularly as party food. It utilizes burdock root, an uncommon ingredient in French cuisine.",
@@ -291,7 +291,7 @@
     },
     
   {
-    "chef": "Sōma Yukihira",
+    "chef": ["Soma Yukihira"],
     "dish_name": "Curry Risotto Omurice",
     "img_link": "",
     "description": "Curry is an umbrella term referring to a number of dishes originating in the cuisine of the Indian subcontinent. Risotto is a northern Italian rice dish cooked in a broth to a creamy consistency. Omurice is an example of yōshoku consisting of an omelette made with fried rice and usually topped with ketchup. With omu and raisu being contractions of the words omelette and rice, the name is an example of wasei-eigo. It is a popular dish both commonly cooked at home and often found at western style diners in Japan. Pressing a spoon on it causes an aroma explosion stemming from his usage of Mango Chutney.",
@@ -357,7 +357,7 @@
       ]
     }, 
     {
-      "chef": "Akira Hayama",
+      "chef": ["Akira Hayama"],
       "dish_name": "Fried Bear",
       "img_link": "",
       "description": "This is a dish based off of the popular Southern United States dish fried chicken, substituting chicken meat with bear meat instead. Just looking at its sparkling surface will make you salivate. With the gravy sauce, just a drop will make the diner its pet. Combined with the bear, it becomes stimulating and spicy, yet mellow and sweet. And by using his mastery of spices, he transforms the bear's natural bone stench into a highly intricate constructed tower of flavor. Overall, it is a delicate balance between fragrance and taste.",
@@ -382,7 +382,7 @@
       ]
     },
     {
-      "chef": "Etsuya Eizan",
+      "chef": ["Etsuya Eizan"],
       "dish_name": "Hainan Ji Fan",
       "img_link": "",
       "description": "Hainan Ji Fan is offered as a set meal of boiled satsuma jidori (which is a type of high-quality poultry) garnished with cilantro, jasmine rice that was cooked in the water used to boil the satsuma jidori and a side of salad. The dish comes with a side of three sauces: a chili sauce that also uses satsuma jidori boiling water, a ginger sauce which contains the oil that was used from frying the satsuma jidori, and siu-dahm. This dish is also known as Khao Man Kai (ข้าวมันไก่) in Thailand, Hainanese Chicken Rice, and other various names. It is a popular dish and a staple on menus all across the region of southeast Asia.",
@@ -425,7 +425,7 @@
       ]
     },
     {
-      "chef": "Soma Yukihira",
+      "chef": ["Soma Yukihira"],
       "dish_name": "Charcoal Grilled Venison Round Steak~Chestnut Sauce~",
       "img_link": "",
       "description": "It has a mellow flavor, and Sōma used chestnuts to create a unique sauce. He used coffee to increase the richness of the sauce.",
@@ -457,7 +457,7 @@
       ]
     },
     {
-    "chef": "Akira Hayama",
+    "chef": ["Akira Hayama"],
     "dish_name": "Köfta Kebab Burger",
     "img_link": "",
     "description":"By using pita bread as the buns, the juices of the burger spill out into the mouth. Köfta was used as the patty, which is a Turkish meatball and, by adding several rich spices to the taste, the burger is consumed so quickly before the person eating even realizes it. The kebab was cooked with multiple spices and all the unwanted smells are masked by a homemade yogurt sauce. Despite the heaviness of the burger, the achaar are the secret condiment, serving as the pickles for the burger.",
@@ -485,7 +485,7 @@
         ]
       },
       {
-        "chef": "Megumi Tadoroko",
+        "chef": ["Megumi Tadoroko"],
         "dish_name": "Dorayaki",
         "img_link": "",
         "description": "Dorayaki (どら焼き, どらやき, 銅鑼焼き, ドラ焼き) is a type of Japanese confection, a red-bean pancake which consists of two small pancake-like patties made from castella wrapped around a filling of sweet Azuki red bean paste. Dorayaki are similar to Imagawayaki, but the latter are cooked with the batter completely surrounding the bean paste filling and are often served hot.",
@@ -520,13 +520,182 @@
             "In a separate bowl, sift together all-purpose flour and baking powder.",
             "Gradually add the dry ingredients to the wet ingredients, stirring until just combined.",
             "Heat a non-stick pan over medium heat. Spoon small amounts of batter onto the pan to form pancakes. Cook until bubbles form on the surface, then flip and cook the other side.",
-            "For the red bean paste, combine canned azuki beans, sugar, and water in a saucepan. Cook over medium heat until the beans are soft and the mixture thickens. Mash the beans to create a smooth paste.",
+            "For the white bean paste, combine canned azuki beans, sugar, and water in a saucepan. Cook over medium heat until the beans are soft and the mixture thickens. Mash the beans to create a smooth paste.",
             "Place a spoonful of red bean paste between two pancakes to form a Dorayaki.",
             "Repeat the process until all the pancakes are used.",
             "Serve and enjoy your homemade Dorayaki!"
               ]
             },
-          
+
+   {
+        "chef": "Joichiro Yukihara",
+        "dish_name": "Dried Sardines with Strawberry Jam",
+        "img_link": "",
+        "description": "A failed Yukihara dish.",
+        "ingredients": [
+         "1 cup of dried sardines",  
+         "1 teaspon of salt",
+         "1 cup of strawberries",
+         "1/2 cup of sugar",
+         "1 tablespoon of lemon juice"
+        ],
+        "recipe": [
+            "Soak the dried sardines in water for 30 minutes to reduce saltiness. Drain and pat dry with paper towels.",
+            "In a pan over medium heat, lightly toast the dried sardines until they become crispy. Remove from heat and set aside.",
+            "For the strawberry jam, combine strawberries, sugar, and lemon juice in a saucepan. Cook over medium heat until the strawberries break down and the mixture thickens.",
+            "Let the strawberry jam cool to room temperature.",
+            "Serve the dried sardines garnished with a dollop of strawberry jam on top.",
+            "Enjoy your unique and flavorful dried sardines with strawberry jam!"
+            ]
+  },     
+  {
+      "chef": ["Soma Yukihira"],
+      "dish_name": "Chicken Egg Tempura Don",
+      "img_link": "",
+      "description": "A frozen egg that is deep-fried in tempura batter, producing a soft-boiled tempura egg over rice. Though the dish uses common, low-grade eggs, the dishes' power comes from this fact as no other egg grade can produce the flavor that dish can create. ",
+      "ingredients": [
+          "1 Frozen Chicken Egg",
+          "Tempura Batter",
+          "Sweet & Salty Sauce Blend",
+          "Soy Sauce",
+          "Mirin",
+          "Bonito Dashi Stock",
+          "Rice"
+        ],
+        
+      "recipe": [
+         "Prepare tempura batter.",
+          "Coat the frozen chicken egg with the tempura batter.",
+          "Fry the chicken egg until golden brown.",
+          "Cook rice.",
+          "Place the tempura-fried chicken egg on top of the cooked rice.",
+          "Prepare Yukihira Diner's Umami-Packed Sweet & Salty Sauce Blend using soy sauce, mirin, and bonito dashi stock.",
+          "Pour the sauce over the chicken egg tempura and rice.",
+          "Serve!"
+          ]
+        },
+        {
+            "chef": ["Soma Yukihira"],
+            "dish_name": "Oyakodon",
+            "img_link": "",
+            "description": "A comforting Japanese dish made with chicken, eggs, and flavorful broth served over rice.",
+            "ingredients": [   
+            "7 chicken wings",
+            "1 tablespoon sesame seed oil",
+            "4 eggs",
+            "Diced spring onion",
+            "1 tablespoon grated ginger",
+            "700cc bonito broth",
+            "1 tablespoon sake",
+            "1 tablespoon mirin",
+            "1 tablespoon sugar",
+            "50cc soy sauce",
+            "Pinch of salt",
+            "Packet of rice"
+          ],
+            "recipe": [
+             "Prepare the Chicken: Heat sesame seed oil in a frying pan. Sauté chicken wings until golden brown on both sides.",
+             "Create Broth: Combine cooked chicken, grated ginger, bonito broth, sake, mirin, sugar, and light soy sauce in a pot. Bring to a boil, skim off impurities, and simmer until reduced by half.",
+             "Cool and Chill the Broth: Pour broth into a container to cool, then chill in the fridge to solidify.",
+             "Prepare the Rice: Follow packet instructions to prepare the rice and keep it warm.",
+             "Debone Chicken and Cut Into Strips: Remove chilled solidified broth from the container. Debone chicken wings and cut into strips.",
+             "Make Egg Curds: Whisk eggs with sugar and salt. Pour into a frying pan over low heat, stirring rapidly to create curds. Transfer to a plate.",
+             "Assemble the Dish: Pour solidified broth (aspic) over hot rice. Add egg curds and chicken strips on top. Sprinkle diced spring onions for garnish."
+            ]
+          },
+          {
+              "chef": ["Soma Yukihira"],
+              "dish_name": "Mini Soufflé Omelette",
+              "img_link": "",
+              "description": "By cooking the eggs to form a soufflé, the meal is soft, springy and bouncy. However, once you eat it, it melts in your mouth, just like magic! However, be warned, it must be served quickly before it loses its form.",
+              "ingredients": [
+                "Flour",
+                "Egg Whites",
+                "Cream",
+                "Egg Yolk",
+                "Heavy Cream",
+                "Salt",
+                "Black Pepper",
+                "Sauce",
+                "Tomato Sauce",
+                "Garlic",
+                "Parsley"
+              ],
+              "recipe": [
+               "Prepare a mixture of flour, egg whites, cream, egg yolk, heavy cream, salt, and black pepper.",
+               "In a separate saucepan, prepare a sauce using tomato sauce, garlic, and parsley.",
+               "Cook the mixture in a skillet or oven until golden brown.",
+               "Serve the cooked mixture with the tomato sauce on top.",
+               "Garnish with additional parsley if desired."
+              ]
+            },
+            {
+                  "chef": ["Ryo Kurokiba"],
+                  "dish_name": "French Curry Lobster Rice with Cognac",
+                  "img_link": "",
+                  "description": "The cognac in particular was of the highest quality, giving the dish the impression of a forest and has the aroma of sandalwood.  It is encouraged to eat the tomalley inside the spiny lobster's head with droplets of cognac then eat the roux and saffron rice.",
+                  "ingredients": [
+                   "2 lobsters (about 1 1/2 pounds each), cooked and shelled",
+                   "2 tablespoons olive oil",
+                   "2 shallots, finely chopped",
+                   "2 cloves garlic, minced",
+                   "1 tablespoon curry powder",
+                   "1/2 cup cognac",
+                   "1 cup long-grain white rice",
+                   "2 cups chicken or seafood broth",
+                   "1 cup heavy cream",
+                   "Salt and pepper to taste",
+                   "Chopped fresh parsley for garnish"
+                  ],
+              "recipe": [
+                "Prepare the Lobster: Cook the lobsters by boiling or steaming until fully cooked. Remove the meat from the shells and chop into bite-sized pieces. Set aside.",
+                "Sauté Aromatics: Heat olive oil in a large skillet over medium heat. Add finely chopped shallots and minced garlic. Sauté until translucent and fragrant.",
+                "Add Curry and Cognac: Sprinkle curry powder over sautéed aromatics. Stir for a minute. Pour in cognac and simmer until alcohol evaporates.",
+                "Cook the Rice: Add uncooked rice to the skillet, stirring to coat with aromatics and spices. Pour in chicken or seafood broth. Bring to a boil, then simmer covered for 15-20 minutes until rice is cooked and liquid is absorbed.",
+                "Incorporate Lobster and Cream: Add chopped lobster meat to the skillet. Pour in heavy cream, stirring gently. Simmer for 5-7 minutes until lobster is heated through and sauce thickens slightly.",
+                "Season and Garnish: Season with salt and pepper. Garnish with chopped fresh parsley before serving."
+                  ]
+                },
+           {
+              "chef": ["Takumi Aldini"],
+              "dish_name": "Insalata Frittata",
+              "img_link": "",
+              "description": "",
+              "ingredients": [
+                "6 large eggs",
+                "1/4 cup grated Parmesan cheese",
+                "1 tablespoon olive oil",
+                "1 small onion, thinly sliced",
+                "1 red bell pepper, diced",
+                "1 cup cherry tomatoes, halved",
+                "2 cups fresh spinach leaves",
+                "Salt and pepper to taste",
+                "1/4 cup chopped fresh basil or parsley (optional, for garnish)"
+              ],
+           "recipe": 
+           [
+              "Preheat the oven to 350°F (175°C).",
+              "In a bowl, whisk together the eggs and grated Parmesan cheese. Set aside."
+              "Heat olive oil in an oven-safe skillet over medium heat.",
+              "Sauté the thinly sliced onion until translucent.",
+              "Add diced red bell pepper and cook until it softens.",
+              "Add fresh spinach leaves to the skillet. Stir until they wilt.",
+              "Add halved cherry tomatoes to the skillet and cook for a few more minutes until they soften slightly.",
+              "Season the sautéed vegetables with salt and pepper to taste.",
+              "Pour the whisked egg and Parmesan mixture evenly over the vegetables in the skillet. Cook on the stovetop for 2-3 minutes until the edges start to set.",
+              "Transfer the skillet to the preheated oven.",
+              "Bake for 10-15 minutes or until the frittata is set in the middle and the top is lightly golden brown.",
+              "Remove the frittata from the oven and let it cool for a few minutes.",
+              "Optionally, sprinkle chopped fresh basil or parsley on top for garnish.",
+              "Cut the frittata into wedges and serve warm or at room temperature."
+           ]
+          }, 
+              
+
+
+
+  
+     
           
 
 
