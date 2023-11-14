@@ -1,0 +1,116 @@
+{
+    "chef": "Soma Yukihara",
+    "dish_name": "Grilled Squid Tentacles Dressed in Peanut Butter",
+    "description": "This is Sōma's innovative dish, which is served to repel the vicious urban residential planner, Yaeko Minegasaki, from destroying Restaurant Yukihira. Even when all the meat materials were sabotaged in his kitchen, Sōma managed to turn the tides by using some of the groceries he had bought as his ingredients to create artificial meat.",
+    "ingredients": [
+      "6 white potatoes",
+      "3 Eringi mushrooms",
+      "1 large white onion or 2 medium white onions",
+      "1 sprig of rosemary",
+      "2 tablespoons butter (30ml) (you could always use a bit more)",
+      "2 packs of thick-cut bacon",
+      "1 cup or 250ml of red wine (We used Pinot Noir since it's preferable for cooking)",
+      "1/4 cup or 60ml of sake (Any sake labeled as 'sweet' should do)",
+      "2 tablespoons or 30ml of soy sauce",
+      "1 sprig of parsley or any garnish"
+    ],
+    "recipe": {
+      "steps": [
+        {
+          "step_number": 1,
+          "instruction": "Peel the Potatoes",
+          "details": "- Amount: 6 white potatoes."
+        },
+        {
+          "step_number": 2,
+          "instruction": "Slice the Potatoes",
+          "details": "- Wash the potatoes then cut them into quarters or halves, depending on size."
+        },
+        {
+          "step_number": 3,
+          "instruction": "Chop the Mushrooms and Onions into Equally-sized Brunoise (small 5-6cm cubes)",
+          "details": "- Amount: 3 Eringi mushrooms and 1 large white onion or 2 medium white onions."
+        },
+        {
+          "step_number": 4,
+          "instruction": "Steam the Potatoes",
+          "details": "- Steam potatoes until soft (about 15-20 minutes).\n- DO NOT steam or microwave the mushrooms."
+        },
+        {
+          "step_number": 5,
+          "instruction": "Pan Fry the Onions and Mushrooms",
+          "details": "- Prep the pan with a tablespoon of butter.\n- Pan fry onions and mushrooms until caramelized or fully golden."
+        },
+        {
+          "step_number": 6,
+          "instruction": "Mash the Potatoes",
+          "details": "- Mash into small chunks in a large bowl. Do not mash too much, you want to avoid it being frothy to form it to shape."
+        },
+        {
+          "step_number": 7,
+          "instruction": "Combine the Onion and Mushroom Mix with the Potato Mash",
+          "details": "- Mix until the ingredients are even in the bowl."
+        },
+        {
+          "step_number": 8,
+          "instruction": "Pick the Rosemary",
+          "details": "- Pick the rosemary off its stem.\n- Set aside."
+        },
+        {
+          "step_number": 9,
+          "instruction": "Add the Salt",
+          "details": "- Add a few sprinkles of salt to the top of the bowl."
+        },
+        {
+          "step_number": 10,
+          "instruction": "Form the Fake Roast",
+          "details": "- Let the mix cool until touchable (more than 5 minutes). CAUTION HOT\n- Take all of the mix and form it into a log shape."
+        },
+        {
+          "step_number": 11,
+          "instruction": "Wrap the Roast in Bacon",
+          "details": "- Amount: 2 packs of thick-cut bacon.\n- Wrap the roast fully, try not to leave any gaps, otherwise, the potatoes will seep out when the bacon tightens.\n- There is no surefire way of doing this, just coat it to the best of your ability."
+        },
+        {
+          "step_number": 12,
+          "instruction": "Tie the Roast",
+          "details": "- Tie the roast with the twine. It doesn’t need to be anything fancy, just wrap it around a few times.\n- Intertwine the rosemary afterward."
+        },
+        {
+          "step_number": 13,
+          "instruction": "Bake in the Oven",
+          "details": "- Bake at 375ºF or 190ºC for 30-45 minutes or until bacon is golden (cook longer for crispy bacon), turning halfway."
+        },
+        {
+          "step_number": 14,
+          "instruction": "Boil the Wine In the Frying Pan",
+          "details": "- Amount: 1 Cup, or 250ml.\n- Bring the wine to a boil (~10 minutes) on medium-high heat in a frying pan. The aim is to reduce it."
+        },
+        {
+          "step_number": 15,
+          "instruction": "Add the Butter, Sake, and Soy Sauce to the Wine",
+          "details": "- Amount: 1 tbs of butter, 1/4 cup of sake, 2 tbs of soy sauce.\n- Melt the butter into the boiling wine.\n- Pour the soy sauce and sake into the sauce.\n- Continue to cook for 2-3 minutes."
+        },
+        {
+          "step_number": 16,
+          "instruction": "Remove the Twine and the Rosemary",
+          "details": "- When the baking is done, remove the twine and rosemary, they are not to be eaten."
+        },
+        {
+          "step_number": 17,
+          "instruction": "Pour the Sauce on the Roast",
+          "details": "- Pour the finished sauce onto the roast (make sure the roast is on a plate to hold the extra sauce). Pour slowly."
+        },
+        {
+          "step_number": 18,
+          "instruction": "Add the Garnish",
+          "details": "- Add a garnish to the top of the dish, we used parsley, the anime used watercress."
+        },
+        {
+          "step_number": 19,
+          "instruction": "Serve"
+        }
+      ]
+    }
+  }
+  
