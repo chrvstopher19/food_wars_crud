@@ -356,6 +356,195 @@
     "Add the sauce and garnish as desired." 
       ]
     }, 
+    {
+      "chef": "Akira Hayama",
+      "dish_name": "Fried Bear",
+      "img_link": "",
+      "description": "This is a dish based off of the popular Southern United States dish fried chicken, substituting chicken meat with bear meat instead. Just looking at its sparkling surface will make you salivate. With the gravy sauce, just a drop will make the diner its pet. Combined with the bear, it becomes stimulating and spicy, yet mellow and sweet. And by using his mastery of spices, he transforms the bear's natural bone stench into a highly intricate constructed tower of flavor. Overall, it is a delicate balance between fragrance and taste.",
+      "ingredients": [
+          "Bear Roast that is Sliced Thick, Marinated & Deep Fried",
+          "Marinated purée consisting of Garlic, Ginger, and Onion",
+          "Frying Batter consisting of Eggs and Potato Starch",
+          "Frying Oil",
+          "Cajun Spice Blend",
+          "Gravy Sauce",
+          "Biscuits"
+      ],
+      "recipe": [
+        "Slice the meat into thick slices, marinating it in garlic, ginger, and onion purée to soften it.",
+        "Create the batter with eggs and potato starch.",
+        "Heat up oil in a frying pan.",
+        "Coat the bear slices in batter and add them to the frying pan.",
+        "To make the sauce, use the bear broth and add wheat flour and milk till it thickens.",
+        "After the mixture has become fragrant and slightly browned, add the seasonings and spices.",
+        "Add cajun spice and salt to the bear meat, then fry with thick batter.",
+        "Crush juniper berries and add them to the marinade."
+      ]
+    },
+    {
+      "chef": "Etsuya Eizan",
+      "dish_name": "Hainan Ji Fan",
+      "img_link": "",
+      "description": "Hainan Ji Fan is offered as a set meal of boiled satsuma jidori (which is a type of high-quality poultry) garnished with cilantro, jasmine rice that was cooked in the water used to boil the satsuma jidori and a side of salad. The dish comes with a side of three sauces: a chili sauce that also uses satsuma jidori boiling water, a ginger sauce which contains the oil that was used from frying the satsuma jidori, and siu-dahm. This dish is also known as Khao Man Kai (ข้าวมันไก่) in Thailand, Hainanese Chicken Rice, and other various names. It is a popular dish and a staple on menus all across the region of southeast Asia.",
+      "ingredients":  [
+        "Garlic", 
+        "Ginger", 
+        "Satsuma Jidori Oil", 
+        "Satsuma Jidori Skin (Sauteed)", 
+        "Butter",
+        "Satsuma Jidori Fat",
+        "Uncooked Long-Grain Jasmine Rice", 
+        "Satsuma Jidori Oil",
+        "Satsuma Jidori Stock",
+        "Satsuma Jidori", 
+        "Chicken Feet", 
+        "Drumettes", 
+        "Cilantro",
+        "English Cucumber", 
+        "Cherry Tomato", 
+        "Cilantro",
+        "Satsuma Jidori Stock",
+        "Cilantro",
+        "Chili Peppers", 
+        "Satsuma Jidori Stock",
+        "Cilantro",
+        "Ginger Sauce"
+        "Soy Sauce"
+      ],
+      "recipe": [
+        "Remove the skin and fat from the Satsuma Jidori and save for later.",
+        "Bring a pot of water up to a boil then turn off the heat. Place the skinless chicken into the pot with the lid on for about 30 minutes or until done, allowing the residual heat to slowly cook the meat. The water cooking the chicken will become the stock.",
+        "To create the oil, sautee the chicken skin with the chicken fat and butter then separate from the chicken piece. After the skin and fat are fully rendered, separate both from the oil.",
+        "Use the oil to stir fry the garlic, ginger, and the uncooked jasmine rice. Remove from heat once it becomes fragrant.",
+        "After the chicken has been cooked down to the center, remove it from the pot and split the bird into pieces, such as wings and drumettes. Place them back into the stock along with cilantro, and turn on the heat again.",
+        "Place the previously stir-fried raw rice into the heated stock to cook it.",
+        "After cooking, separate both rice and pieces from the soup. If desired, cut the meat to bite-sized pieces.",
+        "Pour the soup into a bowl and place both rice and chicken onto a plate.",
+        "For the chili sauce, mix the satsuma jidori's stock with chili peppers.",
+        "For the ginger sauce, mix the ginger with the satsuma jidori oil."
+      ]
+    },
+    {
+      "chef": "Soma Yukihira",
+      "dish_name": "Charcoal Grilled Venison Round Steak~Chestnut Sauce~",
+      "img_link": "",
+      "description": "It has a mellow flavor, and Sōma used chestnuts to create a unique sauce. He used coffee to increase the richness of the sauce.",
+      "ingredients": [
+        "Venison Round Steak (Charcoal Braised)",
+        "Marinade",
+        "Onions (Finely Diced)",
+        "Garlic (Finely Diced)",
+        "Soma-Style Chestnut Sauce",
+        "Fond de Veau (Reduced)",
+        "Cinnamon Stick",
+        "Orange Zest",
+        "Chestnuts (Sweet Roasted & Minced)",
+        "Sugar",
+        "Coffee (Instant Ground)",
+        "Coffee Beans",
+        "Garnish",
+        "Chestnuts (Sweet Roasted)",
+        "Cinnamon Stick"
+      ],
+      "recipe_steps": [
+        "Remove tendons from the meat.",
+        "Finely dice the onions and garlic.",
+        "Smear over the meat and allow it to marinate.",
+        "After marinating, place the meat on a hot charcoal brazier and heat till cooked.",
+        "How to make Soma-Style Chestnut Sauce:",
+        "Place fond de veau, cinnamon sticks, orange zest, minced chestnuts, and instant coffee in a pot and set to simmer.",
+        "Remove from flame once thickened."
+      ]
+    },
+    {
+    "chef": "Akira Hayama",
+    "dish_name": "Köfta Kebab Burger",
+    "img_link": "",
+    "description":"By using pita bread as the buns, the juices of the burger spill out into the mouth. Köfta was used as the patty, which is a Turkish meatball and, by adding several rich spices to the taste, the burger is consumed so quickly before the person eating even realizes it. The kebab was cooked with multiple spices and all the unwanted smells are masked by a homemade yogurt sauce. Despite the heaviness of the burger, the achaar are the secret condiment, serving as the pickles for the burger.",
+      "ingredients": [
+          "Köfta Ground beef or lamb",
+          "Kebab seasoning (cumin, coriander, paprika, garlic powder, salt, pepper)",
+          "Olive oil",
+          "Pita bread or burger buns",
+          "Lettuce",
+          "Tomato slices",
+          "Red onion slices",
+          "Tzatziki sauce or preferred sauce"
+      ],
+        "recipe": [
+          "Combine ground meat with kebab seasoning in a mixing bowl.",
+          "Shape the seasoned meat into burger patties.",
+          "Brush patties with olive oil and cook on a grill or skillet until desired doneness (4-5 minutes per side).",
+          "Warm pita bread or lightly toast burger buns.",
+          "Place a lettuce leaf on the bottom half of the bread.",
+          "Add cooked kebab patty on top of the lettuce.",
+          "Layer with tomato slices and red onion.",
+          "Drizzle tzatziki sauce or preferred sauce over the toppings.",
+          "Top with the other half of the bread.",
+          "Serve hot with your favorite sides."
+        ]
+      },
+      {
+        "chef": "Megumi Tadoroko",
+        "dish_name": "Dorayaki",
+        "img_link": "",
+        "description": "Dorayaki (どら焼き, どらやき, 銅鑼焼き, ドラ焼き) is a type of Japanese confection, a red-bean pancake which consists of two small pancake-like patties made from castella wrapped around a filling of sweet Azuki red bean paste. Dorayaki are similar to Imagawayaki, but the latter are cooked with the batter completely surrounding the bean paste filling and are often served hot.",
+        "ingredients": [
+            "Grilled Castella Pancake made of the following;",
+            "Egg",
+            "Wasanbon Sugar (Refined Japanese Sugar)",
+            "Honey",
+            "Mirin",
+            "Wheat Flour",
+            "Grated Tofu",
+            "Apple Butter",
+            "Beurre Monte made of the following;",
+            "Cold Butter",
+            "Water",
+            "Grated Apple",
+            "Lemon Juice",
+            "Lemon",
+            "Sugar"
+            "White Bean Paste",
+            "White Kidney Beans",
+            "Cube Cut Apple",
+            "Apple",
+            "Boiled Pectin",
+            "Water",
+            "Sugar",
+            "Finely Diced Ginger (From Takumi Aldini's Doppio Mezzaluna Pizza)"
+          ], 
+        "recipe": [
+            "In a bowl, whisk together eggs, sugar, and honey until well combined.",
+            "Add milk, vegetable oil, and vanilla extract to the egg mixture, and whisk until smooth.",
+            "In a separate bowl, sift together all-purpose flour and baking powder.",
+            "Gradually add the dry ingredients to the wet ingredients, stirring until just combined.",
+            "Heat a non-stick pan over medium heat. Spoon small amounts of batter onto the pan to form pancakes. Cook until bubbles form on the surface, then flip and cook the other side.",
+            "For the red bean paste, combine canned azuki beans, sugar, and water in a saucepan. Cook over medium heat until the beans are soft and the mixture thickens. Mash the beans to create a smooth paste.",
+            "Place a spoonful of red bean paste between two pancakes to form a Dorayaki.",
+            "Repeat the process until all the pancakes are used.",
+            "Serve and enjoy your homemade Dorayaki!"
+              ]
+            },
+          
+          
+
+
+            
+          
+    
+
+
+
+
+
+
+   
+ 
+
+    
+    
+    
 
     
   
