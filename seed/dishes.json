@@ -1,5 +1,5 @@
 {
-    "chef": "Soma Yukihara",
+    "chef": "Sōma Yukihara",
     "dish_name": "Grilled Squid Tentacles Dressed in Peanut Butter",
     "description": "This is Sōma's innovative dish, which is served to repel the vicious urban residential planner, Yaeko Minegasaki, from destroying Restaurant Yukihira. Even when all the meat materials were sabotaged in his kitchen, Sōma managed to turn the tides by using some of the groceries he had bought as his ingredients to create artificial meat.",
     "ingredients": [
@@ -109,6 +109,70 @@
         {
           "step_number": 19,
           "instruction": "Serve"
+        }
+      ]
+    }
+  }
+  {
+    "chef": "Sōma Yukihira",
+    "dish_name": "Chaliapin Steak Don",
+    "description": "The dish is exclusively made by Sōma combined with the Japanese original dish, the Chaliapin Steak, and the donburi concept for his first Shokugeki. Although the dish was made with cheap ingredients that can be found in a supermarket, the dish focused on both innovation and balance of the ingredients to fulfill the donburi mantra, 'Dons are completed in one bowl.'",
+    "ingredients": [
+      "Beef Sirloin (Supermarket discount)",
+      "Lots of Onion",
+      "Garlic (mix with onion)",
+      "Pepper",
+      "Salt",
+      "Potato Starch",
+      "Rice (Donburi Bowl)",
+      "Umeboshi Paste",
+      "Pickled Plum",
+      "Sauce",
+      "Red Wine",
+      "Soy Sauce",
+      "Butter"
+    ],
+    "recipe": {
+      "steps": [
+        {
+          "step_number": 1,
+          "instruction": "Chop the onions finely."
+        },
+        {
+          "step_number": 2,
+          "instruction": "Remove the tendons from the beef and beat it with a meat tenderizer until as flat as possible."
+        },
+        {
+          "step_number": 3,
+          "instruction": "Cover meat on both sides with the chopped onion and leave for 30 minutes or more. Remove the onion and add salt and pepper."
+        },
+        {
+          "step_number": 4,
+          "instruction": "Cook the steak to your preference (most would prefer medium-rare). Remove from heat and melt 1 tablespoon of butter in a frying pan and fry the onion used for the beef until it changes color. Adjust the flavor with salt and pepper, then move the onion to the steak."
+        },
+        {
+          "step_number": 5,
+          "instruction": "Melt the remaining butter in the frying pan and fry the sides of the meat before taking it out."
+        },
+        {
+          "step_number": 6,
+          "instruction": "Making the Sauce:"
+        },
+        {
+          "step_number": 7,
+          "instruction": "Add red wine to the frying pan used for the beef to deglaze it. Boil down the wine while scraping off the meat juice."
+        },
+        {
+          "step_number": 8,
+          "instruction": "Add soy sauce and mix with everything. Adjust seasonings to personal preferences."
+        },
+        {
+          "step_number": 9,
+          "instruction": "Thicken with dissolved potato starch."
+        },
+        {
+          "step_number": 10,
+          "instruction": "Put rice mixed with Umeboshi paste (pickled plum) in the donburi bowl. Place the beef on top and add plenty of sauce. Top with the finely chopped, cooked onions."
         }
       ]
     }
