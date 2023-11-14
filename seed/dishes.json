@@ -2,7 +2,7 @@
     "chef": ["Soma Yukihira"],
     "dish_name": "Roast Pork, Just Kidding",
     "img_link":"",
-    "description": "This is Sōma's innovative dish, which is served to repel the vicious urban residential planner, Yaeko Minegasaki, from destroying Restaurant Yukihira. Even when all the meat materials were sabotaged in his kitchen, Sōma managed to turn the tides by using some of the groceries he had bought as his ingredients to create artificial meat.",
+    "description": "This is Soma's innovative dish, which is served to repel the vicious urban residential planner, Yaeko Minegasaki, from destroying Restaurant Yukihira. Even when all the meat materials were sabotaged in his kitchen, Sōma managed to turn the tides by using some of the groceries he had bought as his ingredients to create artificial meat.",
     "ingredients": [
       "6 white potatoes",
       "3 Eringi mushrooms",
@@ -690,7 +690,143 @@
               "Cut the frittata into wedges and serve warm or at room temperature."
            ]
           }, 
-              
+          {
+              "chef": ["Terunori Kuga"],
+              "dish_name": "Green Tea Kurozubuta",
+              "img_link": "",
+              "description": "By using green tea leaves to smoke a pork shoulder combined with a black vinegar sauce which is made by using black vinegar, sugar, crushed green tea leaves, smoked soy sauce, and a french sauce called sauce au vinaigre balsamique which gives look similar to sweet & sour pork. When the diner eats this it the sauce highlights the quality of the ingredients combined with the green tea would flood your vision with fresh vendure.",
+
+              "ingredients": [
+                "Green Tea Pork",
+                "Pork Shoulder Roast (Smoked)",
+                "Green Tea Leaves",
+                "Potato Starch",
+                "Frying Oil",
+                "Black Vinegar Sauce",
+                "Black Vinegar",
+                "Sugar",
+                "Green Tea Leaves (Crushed)",
+                "Smoked Soy Sauce (By Subaru Mimasaka)",
+                "Sauce au Vinaigre Balsamique",
+                "Balsamic Vinegar",
+                "Glace de Viande",
+                "Fond de Veau",
+                "Garnish",
+                "Whole Green Tea Leaves",
+                "Parsnips (Shredded)"
+              ],
+            
+              "recipe": [
+                "Prepare Green Tea Pork by marinating smoked pork shoulder roast with green tea leaves and coating with potato starch.",
+                "Heat frying oil and fry the Green Tea Pork until golden brown and crispy.",
+                "Prepare Black Vinegar Sauce by combining black vinegar, sugar, and crushed green tea leaves.",
+                "Prepare Smoked Soy Sauce by Subaru Mimasaka.",
+                "Prepare Sauce au Vinaigre Balsamique by combining balsamic vinegar and Glace de Viande.",
+                "Garnish the dish with whole green tea leaves and shredded parsnips.",
+                "Serve and enjoy!"
+              ]
+            },
+            {
+                "chef": ["Momo Akanegakubo"],
+                "dish_name": "Chocolate Covered Checkerboard Cake",
+                "img_link": "",
+                "description": "A chocolate cake covered in ganache and stylized with a chocolate rose. Each slice of cake has the appearance of a checkerboard on its cross-section, hence the name.",
+                "ingredients": [
+                  "Chocolate Sponge Cake Base",
+                  "Eggs",
+                  "Whites",
+                  "Yolks",
+                  "Chocolate Ganache",
+                  "Chopped Chocolate",
+                  "Heavy Cream",
+                  "Chocolate Rose (Modeling Chocolate)"
+                ],
+                "recipe": [
+                  "Prepare Chocolate Sponge Cake Base using eggs, whites, and yolks.",
+                  "Make Chocolate Ganache by combining chopped chocolate and heavy cream.",
+                  "Use Modeling Chocolate to create Chocolate Roses.",
+                  "Assemble the cake using the Chocolate Sponge Cake Base, layering with Chocolate Ganache.",
+                  "Decorate the cake with Chocolate Roses made from Modeling Chocolate.",
+                  "Serve"
+                ]
+            },
+            {
+                "chef": ["Erina Nakiri"],
+                "dish_name": "Eggs Benedict",
+                "img_link": "",
+                "description": "This dish is a beautiful gem amongst the rubble of other egg dishes. Cooked to perfection by the tried-and-true classic recipe, Erina added a secret weapon to it: Karasumi powder to further enhance the egg theme.",
+                "ingredients": [
+                  "Ground Chive",
+                  "Hollandaise Sauce",
+                  "Egg Yolks",
+                  "Lemon Juice",
+                  "Melted Butter",
+                  "Water",
+                  "Poached Egg",
+                  "Oven Baked Bacon",
+                  "English Muffin",
+                  "Karasumi Powder",
+                  "Dried Mullet Roe",
+                  "Dried Various Fish Eggs",
+                  "Salt"
+                ],
+                "recipe": [
+                  "Prepare Hollandaise Sauce using egg yolks, lemon juice, and melted butter.",
+                  "Poach an egg in water.",
+                  "Toast an English Muffin.",
+                  "Layer the toasted English Muffin with ground chive, oven-baked bacon, and poached egg.",
+                  "Top with Hollandaise Sauce.",
+                  "Sprinkle Karasumi Powder (Dried Mullet Roe and Dried Various Fish Eggs) and salt for flavor.",
+                  "Serve"
+                ]
+              },
+              {
+                  "chef": ["Kojiro Shinomiyav"],
+                  "dish_name": "Nine Vegetable Terrine",
+                  "img_link": "",
+                  "description": "This common French dish utilizes nine different types of vegetables that are aligned in strips/stripes, one above the other, and set in a green gelatinous compound (French: gelée; English: aspic - a savory jelly made with meat stock, set in a mold and used to contain pieces of meat, seafood, eggs or vegetables).",
+                  "ingredients": [
+                    "Cabbage",
+                    "Carrots",
+                    "Okra",
+                    "Zucchini",
+                    "Cauliflower",
+                    "Yellow Summer Squash",
+                    "Asparagus",
+                    "White Asparagus",
+                    "Green Asparagus",
+                    "Baby Corn",
+                    "Sauce",
+                    "Egg Yolk",
+                    "Thyme Spice",
+                    "Mashed Garlic",
+                    "Mayonnaise (40g)",
+                    "Virgin Olive Oil (10ml)",
+                    "Milk (10ml)",
+                    "Black Pepper",
+                    "Salt",
+                    "Garnish",
+                    "Leaf",
+                    "Cherry Tomatoes"
+
+                  ],
+                  "recipe": [
+                    "Chop and prepare the vegetables: Cabbage, Carrots, Okra, Zucchini, Cauliflower, Yellow Summer Squash, Asparagus, White Asparagus, Green Asparagus, Baby Corn.",
+                    "Prepare the sauce by mixing Egg Yolk, Thyme Spice, Mashed Garlic, Mayonnaise, Virgin Olive Oil, Milk, Black Pepper, and Salt.",
+                    "Blanch the vegetables in hot water for a short time, keeping them crisp.",
+                    "Arrange the blanched vegetables in a terrine mold, layering them evenly.",
+                    "Pour the prepared sauce over the vegetables, ensuring even coverage.",
+                    "Garnish the top with leaves and Cherry Tomatoes.",
+                    "Refrigerate the terrine for several hours until it sets.",
+                    "Slice and serve the vegetable terrine.",
+                    "Enjoy your delicious terrine!"
+                  ]
+                }
+        
+
+            
+      
+
 
 
 
