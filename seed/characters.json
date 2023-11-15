@@ -9,7 +9,7 @@
          "Elite_10_Member": true,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/Soma_Yukihira.jpeg?raw=true"
     },
     {
         "name": "Erina Nakiri",
@@ -21,7 +21,7 @@
          "Elite_10_Member": true,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/Erina_Nakiri.jpeg?raw=true"
     },
     {
         "name": "Hisako Arato",
@@ -33,7 +33,7 @@
          "Elite_10_Member": false,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/Hisako_Arato.jpeg?raw=true"
     },
     {
         "name": "Megumi Tadokoro",
@@ -45,7 +45,7 @@
          "Elite_10_Member": true,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/Megumi_Tadokoro.jpeg?raw=true"
     },
     {
         "name": "Ryoko Sakaki",
@@ -57,7 +57,7 @@
          "Elite_10_Member": false,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/Ryoko_Sakakijpeg.jpeg?raw=true"
     },
     {
         "name": "Zenji Marui ",
@@ -69,7 +69,7 @@
          "Elite_10_Member": false,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/zenji_marui.jpg?raw=true"
     },
     {
         "name": "Yuki Yoshino",
@@ -81,7 +81,7 @@
          "Elite_10_Member": false,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/yuki_yoshino.jpg?raw=true"
     },
     {
         "name": "Takumi Aldini",
@@ -93,7 +93,7 @@
          "Elite_10_Member": true,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/Takumi_Aldini.jpeg?raw=true"
     },
     {
         "name": "Daigo Aoki",
@@ -105,7 +105,7 @@
          "Elite_10_Member": false,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/daigo_aoki.jpg?raw=true"
     },
     {
         "name": "Shoji Sato ",
@@ -117,7 +117,7 @@
          "Elite_10_Member": false,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/shoji_sato.jpg?raw=true"
     },
     {
         "name": "Ikumi Mito",
@@ -129,7 +129,7 @@
          "Elite_10_Member": false,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/Ikumi_Mito.jpeg?raw=true"
     },
     {
         "name": "Urara Kawashima ",
@@ -141,7 +141,7 @@
          "Elite_10_Member": false,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/urara_awashima.jpg?raw=true"
     },
     {
         "name": "Shun Ibusaki ",
@@ -153,7 +153,7 @@
          "Elite_10_Member": false,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/Shun_Ibusaki.jpeg?raw=true"
     },
     {
         "name": "Isami Aldini ",
@@ -165,7 +165,7 @@
          "Elite_10_Member": false,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/Isami_Aldini.jpeg?raw=true"
     },
     {
         "name": "Alice Nakiri ",
@@ -177,7 +177,7 @@
          "Elite_10_Member": true,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/Alice_Nakiri.jpeg?raw=true"
     },
     {
         "name": "Ryo Kurokiba ",
@@ -189,7 +189,7 @@
          "Elite_10_Member": true,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/ryo_kurokiba.jpg?raw=true"
     },
     {
         "name": "Miyoko Hojo",
@@ -201,7 +201,7 @@
          "Elite_10_Member": false,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/Miyoko_Hojo.jpeg?raw=true"
     },
     {
         "name": "Nao Sadatsuka",
@@ -213,7 +213,7 @@
          "Elite_10_Member": false,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/nao_sadatsuka.jpg?raw=true"
     },
     {
         "name": "Akira Hayama",
@@ -237,7 +237,7 @@
          "Elite_10_Member": true,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/subaru_mimasaka.jpg?raw=true"
     },
     {
         "name": "Yua Sasaki ",
@@ -249,7 +249,7 @@
          "Elite_10_Member": false,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/yua_sasaki.jpg?raw=true"
     },
     {
         "name": "Madoka Enomoto",
@@ -261,7 +261,7 @@
          "Elite_10_Member": false,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/madoka_enomoto.jpg?raw=true"
     },
     {
         "name": "Takumi Ishiwatari ",
@@ -273,6 +273,6 @@
          "Elite_10_Member": false,
          "Generation": "92nd",
          "School": "Totsuki Culinary Academy",
-         "image_Link": ""
+         "image_Link": "https://github.com/chrvstopher19/food_wars_crud/blob/main/images/takumi_ishiwatari.jpg?raw=true"
     }
 ]
