@@ -13,9 +13,9 @@ export const getDishes = async (req,res)=>{
 export const getDish = async (req,res) =>{
     try {
         const { id } = req.params
-        const dishes= await Dish.findbyId(id).populate('members')
+        const dish = await Dish.findById(id)
         if (dish){
-            return res.json(dishes)
+            return res.json(dish)
         }
         res.status(404).json ({message: "Dish not found"})
     } catch (error) {
