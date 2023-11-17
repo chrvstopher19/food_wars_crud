@@ -1,0 +1,27 @@
+[
+    {
+        "chef": ["Chef John Doe", "Chef Jane Smith"],
+        "dish_name": "Spicy Chicken Pasta",
+        "img_link": "https://example.com/spicy-chicken-pasta.jpg",
+        "description": "A delicious and spicy chicken pasta dish with a tangy tomato sauce.",
+        "ingredients": [
+          "300g chicken breast, diced",
+          "250g pasta",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1 can (400g) crushed tomatoes",
+          "2 tablespoons olive oil",
+          "1 teaspoon red chili flakes",
+          "Salt and pepper to taste",
+          "Fresh basil leaves for garnish"
+        ],
+        "recipe": [
+          "Cook pasta according to package instructions. Drain and set aside.",
+          "In a pan, heat olive oil over medium heat. Add chopped onions and garlic. Sauté until fragrant.",
+          "Add diced chicken to the pan and cook until browned.",
+          "Pour in crushed tomatoes, red chili flakes, salt, and pepper. Simmer for 10-15 minutes.",
+          "Add the cooked pasta to the sauce. Toss until the pasta is well coated.",
+          "Garnish with fresh basil leaves before serving."
+        ]
+      } 
+]

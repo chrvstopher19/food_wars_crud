@@ -1,7 +1,7 @@
 import db from '../db/connection.js'
 import Dish from '../models/Dish.js'
 import Character from '../models/Character.js'
-import dishes from './dishes.json' assert {type:'json'}
+import dishes from './dishes2.json' assert {type:'json'}
 import characters from './characters.json' assert {type:"json"}
 import chalk from 'chalk'
 
